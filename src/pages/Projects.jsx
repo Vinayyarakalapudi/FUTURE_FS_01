@@ -48,8 +48,8 @@ const Projects = () => {
               isBlog={false}
               title="Personal Portfolio Website"
               description="Modern portfolio website showcasing projects and skills. Built with HTML5, CSS3, Bootstrap, and JavaScript. Features responsive design, project showcases, and contact functionality."
-              ghLink="https://github.com/yourusername/portfolio"
-              demoLink="https://yourusername.github.io/portfolio"
+              ghLink="https://github.com/Vinayyarakalapudi/FUTURE_FS_01"
+              demoLink="https://portfolio-d8q3.onrender.com/"
             />
           </Col>
 
